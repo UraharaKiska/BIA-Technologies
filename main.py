@@ -8,7 +8,7 @@ import pandas
 #     model.close_connection(conn)
 
 
-def check_worker_hour(shedule):   # подсчет количества часов для каждого работника
+def check_worker_hour(shedule):    # подсчет количества часов для каждого работника
     check = {}
     for i, j in shedule.items():
         for id, status in j['workers_status'].items():
