@@ -25,13 +25,13 @@ def main():
     add_to_database = argument[index]
     if current_month in month_list:
         shedule_dict = create_shedule(current_month)   # Create shedule dict
-        write_jsonfile(shedule_dict, file_name='shedule')  # write shedule to a json file
+        write_jsonfile(shedule_dict, file_name=f'shedule_json/shedule_{current_month}')  # write shedule to a json file
         shedule_frame = dataframe_shedule(shedule_dict)
         try:
-            shedule_frame.to_csv('shedule.csv')
+            shedule_frame.to_csv(f'shedule_csv/shedule_{current_month}.csv')
             print(Fore.GREEN + 'Расписание добавлено в файл shedule.csv')
         except Exception as error:
-            print(Fore.RED + f"Не удалось записать расписание а файл shedulr.csv: {error}")
+            print(Fore.RED + f"Не удалось записать расписание а файл shedule.csv: {error}")
         
         if add_to_database == 'yes':
             if insert_shedule_to_database(shedule_dict, current_month) == True:

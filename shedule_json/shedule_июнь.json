@@ -1,0 +1,452 @@
+{
+    "1": {
+        "weekday": "чт",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "2": {
+        "weekday": "пт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "3": {
+        "weekday": "сб",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "4": {
+        "weekday": "вс",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "5": {
+        "weekday": "пн",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "6": {
+        "weekday": "вт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "7": {
+        "weekday": "ср",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "8": {
+        "weekday": "чт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "9": {
+        "weekday": "пт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "10": {
+        "weekday": "сб",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "11": {
+        "weekday": "вс",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "12": {
+        "weekday": "пн",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "13": {
+        "weekday": "вт",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "14": {
+        "weekday": "ср",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "15": {
+        "weekday": "чт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "16": {
+        "weekday": "пт",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "17": {
+        "weekday": "сб",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "18": {
+        "weekday": "вс",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "19": {
+        "weekday": "пн",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "20": {
+        "weekday": "вт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "21": {
+        "weekday": "ср",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "22": {
+        "weekday": "чт",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "23": {
+        "weekday": "пт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "24": {
+        "weekday": "сб",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "25": {
+        "weekday": "вс",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "26": {
+        "weekday": "пн",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "27": {
+        "weekday": "вт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    },
+    "28": {
+        "weekday": "ср",
+        "workers_status": {
+            "worker1": "р",
+            "worker2": "в",
+            "worker3": "в",
+            "worker4": "р",
+            "worker5": "в",
+            "worker6": "в",
+            "worker7": "р",
+            "worker8": "в",
+            "worker9": "в",
+            "worker10": "р"
+        }
+    },
+    "29": {
+        "weekday": "чт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "р",
+            "worker3": "в",
+            "worker4": "в",
+            "worker5": "р",
+            "worker6": "в",
+            "worker7": "в",
+            "worker8": "р",
+            "worker9": "в",
+            "worker10": "в"
+        }
+    },
+    "30": {
+        "weekday": "пт",
+        "workers_status": {
+            "worker1": "в",
+            "worker2": "в",
+            "worker3": "р",
+            "worker4": "в",
+            "worker5": "в",
+            "worker6": "р",
+            "worker7": "в",
+            "worker8": "в",
+            "worker9": "р",
+            "worker10": "в"
+        }
+    }
+}
