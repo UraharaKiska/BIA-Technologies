@@ -1,4 +1,4 @@
-# BIA-Techologies
+# BIA-Technologies
 
 ### Набросок базы данных:
 ![database](static/base.png)
